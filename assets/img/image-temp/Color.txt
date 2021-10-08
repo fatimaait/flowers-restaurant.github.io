@@ -1,0 +1,9 @@
+transparent grid
+#d9dbdd
+text-grand 
+#ad6c12
+background
+#293b3f
+style de font
+Title Raleway bold
+text body Raleway regular
