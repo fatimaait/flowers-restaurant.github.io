@@ -83,6 +83,14 @@
 		    .item{
 		    	margin-top:20px;
 		    }
+		    .item-text-easy{
+		    	font-size: 14px;
+		    	width:90%;
+		    }
+		    .menu-easy{
+		    	font-size: 12px;
+		    	display: block
+		    }
 			.background2{
 		  	padding: 0px
 		   	}
@@ -240,15 +248,25 @@
 				background-size: cover;
 				height:300px;
 			}
+			.item-text-easy{
+		    	font-size: 14px;
+		    	width:90%;
+		    }
+		    .menu-easy{
+		    	font-size: 12px;
+		    	display: block
+		    }
 			.grid-container-menu{
 		  	display: grid;
-		  	grid-template-columns:20% auto ;
-		  	padding:10px;
+		  	grid-template-columns:30% auto ;
 		  	width: 100%; 
 		  	}
   			.grid-container-contact{
 			display: block;
 			text-align: center;
+	      	}
+	      	.made-easy p{
+	      		width:100%;
 	      	}
 	       .socialmedia{
 			 	padding: 20px 5px;
